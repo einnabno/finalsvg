@@ -1,0 +1,55 @@
+.svg1{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	background-color: yellow;
+}
+.svg2{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	left: 250px;
+	background-color: green;
+}
+.svg3{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	left: 490px;
+	background-color: #D8BFD8;
+}
+.svg4{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	left: 740px;
+	background-color: #FFB6C1;
+}
+.svg5{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	left: 990px;
+	background-color: #5F9EA0;
+}
+.svg6{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	top: 340px;
+	background-color: #2F4F4F;
+}
+.svg7{
+	position: absolute;
+	height: 300px;
+	width: 200px;
+	margin: left;
+	top: 340px;
+	left: 250px;
+	background-color: #FF8C00;
+}
