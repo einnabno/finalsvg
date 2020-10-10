@@ -81,58 +81,32 @@
   <circle stroke="rgb(F,F,F)" id="svg_9" fill="rgb(50,205,50)" r="2.74987" cy="283.50084" cx="185.2518"/>
 </svg>
 <svg class="svg3">
-  <line fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="104.8875" y1="69.68034" x2="109.88751" y2="99.68037" id="svg_1" stroke-linejoin="null" stroke-linecap="null" stroke="#000" transform="rotate(20.00152015686035 107.38749694824217,84.68035888671875) "/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="104.38749" y1="99.18037" x2="88.88748" y2="120.68039" id="svg_2" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="88.88748" y1="120.68039" x2="111.3875" y2="112.18038" id="svg_3" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="110.8875" y1="112.18038" x2="120.88751" y2="87.18036" id="svg_4" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="88.88748" y1="120.18039" x2="93.88748" y2="132.6804" id="svg_5" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="93.38748" y1="131.6804" x2="87.88748" y2="137.18041" id="svg_6" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="87.88748" y1="136.68041" x2="96.38749" y2="149.18042" id="svg_7" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="96.38749" y1="149.68042" x2="112.3875" y2="156.68043" id="svg_8" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="111.8875" y1="156.68043" x2="134.88753" y2="160.18043" id="svg_9" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="131.38751" y1="145.18042" x2="134.38752" y2="159.68043" id="svg_10" stroke-linejoin="null" stroke-linecap="null" stroke="#000"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="130.88752" y1="144.68042" x2="141.88753" y2="139.18041" id="svg_11" stroke-linejoin="null" stroke-linecap="null"/>
-  <line stroke="#000" fill="none" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="141.88753" y1="139.18041" x2="158.88758" y2="139.18041" id="svg_12" stroke-linejoin="null" stroke-linecap="null"/>
-  <line fill="none" stroke="#000" stroke-width="1.5" stroke-opacity="null" fill-opacity="null" x1="159.38759" y1="139.68041" x2="184.38762" y2="151.68042" id="svg_13" stroke-linejoin="null" stroke-linecap="null"/>
-  <circle stroke="rgb(0,0,0)" cx="110.25157" cy="68.49893" r="5.24991" fill="rgb(255,255,255)" id="svg_12"/>
-  <circle stroke="rgb(0,0,0)" cx="103.75153" cy="96.49909" r="5.24991" fill="rgb(255,255,255)" id="svg_14"/>
-  <circle stroke="rgb(0,0,0)" cx="89.25145" cy="118.99923" r="5.24991" fill="rgb(255,255,255)" id="svg_15"/>
-  <circle stroke="rgb(0,0,0)" cx="110.25157" cy="112.49919" r="5.24991" fill="rgb(255,255,255)" id="svg_16"/>
-  <circle stroke="rgb(0,0,0)" cx="121.75164" cy="86.49904" r="5.24991" fill="rgb(255,255,255)" id="svg_17"/>
-  <circle stroke="rgb(0,0,0)" cx="94.75148" cy="131.4993" r="3.7499" fill="rgb(255,255,255)" id="svg_18"/>
-  <circle stroke="rgb(0,0,0)" cx="95.25149" cy="148.9994" r="5.24991" fill="rgb(255,255,255)" id="svg_19"/>
-  <circle stroke="rgb(0,0,0)" cx="113.75159" cy="155.99944" r="5.24991" fill="rgb(255,255,255)" id="svg_20"/>
-  <circle stroke="rgb(0,0,0)" cx="134.75171" cy="160.99947" r="5.24991" fill="rgb(255,255,255)" id="svg_21"/>
-  <circle stroke="rgb(0,0,0)" cx="131.25169" cy="143.49937" r="5.24991" fill="rgb(255,255,255)" id="svg_22"/>
-  <circle stroke="rgb(0,0,0)" cx="159.25186" cy="138.99934" r="5.24991" fill="rgb(255,255,255)" id="svg_23"/>
-  <circle stroke="rgb(0,0,0)" cx="144.75177" cy="139.74934" r="4.2499" fill="rgb(255,255,255)" id="svg_24"/>
-  <circle stroke="rgb(0,0,0)" cx="185.75201" cy="153.49943" r="5.24991" fill="rgb(255,255,255)" id="svg_25"/>
-  <circle stroke="rgb(0,0,0)" cx="86.50144" cy="138.24934" r="3.4999" fill="rgb(255,255,255)" id="svg_26"/>
-  <line transform="rotate(8.083043098449707 32.637092590332074,212.68078613281247) " stroke-linecap="null" stroke-linejoin="null" id="svg_27" y2="217.1808" x2="49.38719" y1="208.18075" x1="15.88699" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line transform="rotate(20.681102752685547 51.63720321655273,223.18083190917972) " stroke-linecap="null" stroke-linejoin="null" id="svg_28" y2="225.68085" x2="55.88723" y1="220.68082" x1="47.38718" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_29" y2="228.18087" x2="62.38726" y1="227.18086" x1="54.38722" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_30" y2="239.18093" x2="64.88728" y1="227.68086" x1="62.38726" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_31" y2="235.68091" x2="71.38732" y1="239.18093" x1="64.88728" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke="rgb(0,0,0)" stroke-linecap="null" stroke-linejoin="null" id="svg_32" y2="251.681" x2="79.38736" y1="235.18091" x1="71.38732" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="none"/>
-  <line transform="rotate(16.29737091064453 35.63711166381837,251.9310302734375) " stroke-linecap="null" stroke-linejoin="null" id="svg_33" y2="253.18101" x2="50.8872" y1="250.681" x1="20.38702" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_34" y2="253.18101" x2="60.88726" y1="257.18104" x1="49.88719" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_35" y2="251.681" x2="77.88735" y1="253.18101" x1="60.38725" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_36" y2="252.18101" x2="100.38748" y1="251.181" x1="78.38736" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line stroke-linecap="null" stroke-linejoin="null" id="svg_37" y2="260.18105" x2="119.8876" y1="252.18101" x1="99.88748" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <line transform="rotate(-9.89637565612793 124.38761901855509,262.93109130859375) " stroke-linecap="null" stroke-linejoin="null" id="svg_38" y2="266.18109" x2="128.38765" y1="259.68105" x1="120.3876" fill-opacity="null" stroke-opacity="null" stroke-width="null" stroke="rgb(0,0,0)" fill="none"/>
-  <circle stroke="rgb(0,0,0)" cx="16.25103" cy="204.49972" r="5.24991" fill="rgb(255,255,255)" id="svg_39"/>
-  <circle stroke="rgb(0,0,0)" cx="21.25106" cy="246.49996" r="5.24991" fill="rgb(255,255,255)" id="svg_40"/>
-  <circle stroke="rgb(0,0,0)" cx="49.25122" cy="257.50003" r="5.24991" fill="rgb(255,255,255)" id="svg_41"/>
-  <circle stroke="rgb(0,0,0)" cx="64.25131" cy="253.5" r="3.7499" fill="rgb(255,255,255)" id="svg_42"/>
-  <circle stroke="rgb(0,0,0)" cx="46.75121" cy="215.99978" r="5.24991" fill="rgb(255,255,255)" id="svg_44"/>
-  <circle stroke="rgb(0,0,0)" cx="54.25125" cy="226.24985" r="3.7499" fill="rgb(255,255,255)" id="svg_45"/>
-  <circle stroke="rgb(0,0,0)" cx="64.00131" cy="228.49986" r="3.9999" fill="rgb(255,255,255)" id="svg_46"/>
-  <circle stroke="rgb(0,0,0)" cx="64.25131" cy="239.49992" r="4.2499" fill="rgb(255,255,255)" id="svg_47"/>
-  <circle stroke="rgb(0,0,0)" cx="73.50136" cy="234.74989" r="2.9999" fill="rgb(255,255,255)" id="svg_48"/>
-  <circle stroke="rgb(0,0,0)" cx="78.25139" cy="251.99999" r="5.24991" fill="rgb(255,255,255)" id="svg_49"/>
-  <circle stroke="rgb(0,0,0)" cx="98.75151" cy="253" r="4.2499" fill="rgb(255,255,255)" id="svg_50"/>
-  <circle stroke="rgb(0,0,0)" cx="117.25161" cy="257.75003" r="5.99992" fill="rgb(255,255,255)" id="svg_51"/>
-  <circle stroke="rgb(0,0,0)" cx="131.2517" cy="267.75008" r="3.9999" fill="rgb(255,255,255)" id="svg_52"/>
+   <polyline stroke="rgb(0,0,0)" transform="rotate(-179.58209228515625 159.75152587890622,42.9995002746582) " points="-6.175606936216354,286.21597295999527 2.6329264640808105,299.28396612405777 20.250007152557373,286.21597295999527 32.581958293914795,299.28396612405777 46.675612926483154,286.21597295999527 " fill="rgb(249,249,249)" id="svg_2"/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-179.58209228515625 73.25000762939453,293.24996948242193) " points="46.82439798116684,286.7159729003906 55.63293069601059,299.7839660644531 73.25001519918442,286.7159729003906 85.58196252584457,299.7839660644531 99.6756209731102,286.7159729003906 " fill="rgb(249,249,249)" id="svg_19"/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-179.58209228515625 125.75001525878908,293.2499694824218) " points="99.32440185546875,286.71597295999527 108.1329345703125,299.78396612405777 125.75001525878906,286.71597295999527 138.08197021484375,299.78396612405777 152.17562866210938,286.71597295999527 " fill="rgb(249,249,249)" id="svg_20"/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-179.58209228515625 178.75001525878906,292.74996948242193) " points="152.3244017958641,286.2159729003906 161.13293451070786,299.2839660644531 178.75001519918442,286.2159729003906 191.0819701552391,299.2839660644531 205.17562860250473,286.2159729003906 " fill="rgb(249,249,249)" id="svg_21"/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(87.53202819824219 111.25000000000001,42.99999999999999) " id="svg_3" fill="rgb(249,249,249)" points="102.2767333984375,15.935192108154297 108.2589111328125,70.06480407714844 120.2232666015625,15.935192108154297 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(0.6330181956291199 159.74999999999818,89.99999999999996) " id="svg_4" fill="rgb(249,249,249)" points="150.7767333984375,62.93519592285156 156.7589111328125,117.06480407714844 168.7232666015625,62.93519592285156 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-179.81405639648438 159.74999999999997,-3.5) " id="svg_5" fill="rgb(249,249,249)" points="150.7767333984375,-30.564804077148438 156.7589111328125,23.564804077148438 168.7232666015625,-30.564804077148438 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-90.99081420898438 203.25000000000003,40) " id="svg_6" fill="rgb(249,249,249)" points="194.2767333984375,12.935192108154297 200.2589111328125,67.06480407714844 212.2232666015625,12.935192108154297 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(54.376670837402344 129.5,63.99999999999999) " id="svg_7" fill="rgb(249,249,249)" points="125.08522033691406,47.496097564697266 128.02840423583984,80.50389862060547 133.91477966308594,47.496097564697266 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(125.7005844116211 131.5,19.499998092651367) " id="svg_8" fill="rgb(249,249,249)" points="127.08522033691406,2.996097445487976 130.0283966064453,36.00389862060547 135.91477966308594,2.996097445487976 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-140.0873565673828 183.49999999999994,13.99999809265137) " id="svg_9" fill="rgb(249,249,249)" points="179.08522033691406,-2.5039024353027344 182.0283966064453,30.50389862060547 187.91477966308594,-2.5039024353027344 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-43.323055267333984 186,68) " id="svg_10" fill="rgb(249,249,249)" points="181.58522033691406,51.496097564697266 184.5283966064453,84.50389862060547 190.41477966308594,51.496097564697266 "/>
+  <polyline stroke="rgb(0,0,0)" transform="rotate(-179.58209228515625 21.250007629394528,293.2499694824219) " points="-5.175601959228516,286.7159729003906 3.6329307556152344,299.7839660644531 21.250015258789062,286.7159729003906 33.58196258544922,299.7839660644531 47.675621032714844,286.7159729003906 " fill="rgb(249,249,249)" id="svg_11"/>
+  <circle stroke="rgb(0,0,0)" cx="55.00151" cy="259.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_12" transform="rotate(5.758272647857666 55.00151062011734,259.9994812011719) "/>
+  <circle stroke="rgb(0,0,0)" cx="82.00151" cy="198.7495" r="13.01319" fill="rgb(234,234,234)" id="svg_13" transform="rotate(5.758272647857666 82.00151062011763,198.74951171874997) "/>
+  <circle stroke="rgb(0,0,0)" cx="34.50151" cy="198.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_14" transform="rotate(5.758272647857666 34.50151062011682,198.99949645996097) "/>
+  <circle stroke="rgb(0,0,0)" cx="89.00151" cy="237.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_15" transform="rotate(5.758272647857666 89.00151062011764,237.9994964599609) "/>
+  <circle stroke="rgb(0,0,0)" cx="122.50151" cy="186.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_16" transform="rotate(5.758272647857666 122.5015106201177,186.99949645996097) "/>
+  <circle stroke="rgb(0,0,0)" cx="74.50151" cy="155.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_17" transform="rotate(5.758272647857666 74.50151062011734,155.99949645996088) "/>
+  <circle stroke="rgb(0,0,0)" cx="169.0015" cy="177.2495" r="12.01824" fill="rgb(234,234,234)" id="svg_18" transform="rotate(5.758272647857666 169.0015106201173,177.24951171875017) "/>
+  <circle stroke="rgb(0,0,0)" cx="147.50151" cy="225.4995" r="7.08736" fill="rgb(234,234,234)" id="svg_22" transform="rotate(5.758272647857666 147.50151062011767,225.49949645996094) "/>
+  <circle stroke="rgb(0,0,0)" cx="179.50151" cy="258.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_23" transform="rotate(5.758272647857666 179.50151062011696,258.999481201172) "/>
+  <circle stroke="rgb(0,0,0)" cx="25.50151" cy="149.9995" r="7.08736" fill="rgb(234,234,234)" id="svg_24" transform="rotate(5.758272647857666 25.50151062011719,149.99948120117188) "/>
+  <circle stroke="rgb(0,0,0)" cx="131.75151" cy="257.4995" r="11.88237" fill="rgb(234,234,234)" id="svg_25" transform="rotate(5.758272647857666 131.75151062011676,257.4994812011721) "/>
+  <circle stroke="rgb(0,0,0)" cx="18.00151" cy="251.49951" r="12.16663" fill="rgb(234,234,234)" id="svg_26" transform="rotate(5.758272647857666 18.00150871276825,251.49948120117188) "/>
+  <circle cx="159.75151" cy="42.9995" r="23.1195" fill="rgb(234,234,234)" id="svg_2" transform="rotate(5.758272647857666 159.7515106201172,42.999504089355355) " stroke="rgb(0,0,0)"/>
 </svg>
 <svg class="svg4">
   <ellipse stroke="rgb(0,0,0)" ry="62.50036" rx="46.50027" id="svg_1" cy="127.18028" cx="82.38738" fill-opacity="null" stroke-opacity="null" stroke-width="null" fill="rgb(255,228,181)"/>
